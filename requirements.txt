@@ -1,0 +1,5 @@
+numpy
+pymem
+opencv-python
+win32api
+pynput
